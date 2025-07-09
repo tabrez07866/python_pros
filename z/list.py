@@ -114,3 +114,7 @@ print(students[2])
 for i in range(len(students)):
     for key,value in students[i].items():
         print(f"{key}-{value}")
+
+
+for i in range(3):
+    print(i)
